@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+<center>
+<img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />  
+</center>
+
 <!--
 **ndonfris/ndonfris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
