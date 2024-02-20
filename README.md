@@ -1,10 +1,13 @@
 ### Hello, I'm Nick 👋
+
+<img align="center" src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />  
+
 -  📫 University of Arizona C.S. Graduate 
 -  😎 full stack web-dev
 -  🪂 I also publish code on: [supplycode.dev](https://www.supplycode.dev)
 -  🤔 I'm currently looking to collaborate on building a [fish-lsp](https://github.com/ndonfris/fish-lsp)
 
-<img align="right" src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />  
+
 
 
 <!--
