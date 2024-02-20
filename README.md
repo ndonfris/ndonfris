@@ -4,9 +4,8 @@
 -  🪂 I also publish code on: [supplycode.dev](https://www.supplycode.dev)
 -  🤔 I'm currently looking to collaborate on building a [fish-lsp](https://github.com/ndonfris/fish-lsp)
 
-<center>
-  <img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />  
-</center>
+<img align="right" src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />  
+
 
 <!--
 **ndonfris/ndonfris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
