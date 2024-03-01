@@ -1,8 +1,8 @@
 ### Hello, I'm Nick 👋
--  📫 University of Arizona C.S. Graduate 
--  😎 full stack web-dev
--  🪂 I also publish code on: [supplycode.dev](https://www.supplycode.dev)
--  🐟 Auhtor of the [fish-lsp](https://github.com/ndonfris/fish-lsp) and looking for other maintainers 
+    -  😎 full stack web-dev
+    -  🎓 University of Arizona C.S. Graduate
+    -  🐟 Auhtor of the [fish-lsp](https://github.com/ndonfris/fish-lsp) and looking for other maintainers 
+    -  🪂 I also publish code on: [supplycode.dev](https://www.supplycode.dev)
   
 <img align="center" src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />  
 
