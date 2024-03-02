@@ -21,7 +21,7 @@ I am always looking for new opportunities to collaborate and learn from others.
     <img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak"/>  
 </p>
 <!-- <hr /> -->
-<h6 style="margin-left: auto; margin-right: auto; max-width: 60%;" align='center'>Current Favorite Tools🛠️</h6>
+<h4>Current Favorite Tools🛠️</h4>
 <div style="display: flex; justify-content: space-between; flex-direction: column; text-wrap: no-wrap;" align="center">
 
 ![pop!_shell](https://img.shields.io/badge/pop!__shell-48B9C7?style=for-the-badge&logo=Linux&logoColor=white)
