@@ -6,7 +6,6 @@
 - 🎓 University of Arizona Computer Science Graduate
 - 🐟 Author of the [fish-lsp](https://github.com/ndonfris/fish-lsp)
 - 🪂 I also publish code on [supplycode.dev](https://www.supplycode.dev)
-
 </div>
 <div style="font-size: 9pt; margin-right: auto; margin-left: auto; max-width: 55%;">
 
@@ -80,7 +79,6 @@ I am always looking for new opportunities to collaborate and learn from others.
 <!-- [![Neovim](https://img.shields.io/badge/Neovim-black?logo=neovim&logoColor=blue)](https://neovim.io/ "Go to Neovim homepage") -->
 <!-- [![vim](https://img.shields.io/badge/Vim-black?logo=vim&logoColor=green)](https://neovim.io/ "Go to Neovim homepage") -->
 <!-- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) -->
-
 <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=white)](https://www.typescriptlang.org/ "Go to TypeScript homepage") -->
 <!-- [![Astro](https://img.shields.io/badge/Astro-black?logo=astro&logoColor=white)](https://astro.build/ "Go to Astro homepage") -->
 <!-- [![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)](https://expressjs.com/ "Go to Express.js homepage") -->
