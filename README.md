@@ -16,7 +16,7 @@ I am always looking for new opportunities to collaborate and learn from others.
 
 </div>
 <!-- <hr /> -->
-<p align="center" style="margin-top: 1em">
+<p align="center" style="margin-top: 2em">
     <img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak"/>  
 </p>
 <!-- <hr /> -->
