@@ -25,9 +25,9 @@ I am always looking for new opportunities to collaborate and learn from others.
 
 ![pop!_shell](https://img.shields.io/badge/pop!__shell-48B9C7?style=for-the-badge&logo=Linux&logoColor=white)
 ![fish](https://img.shields.io/badge/fish-black?style=for-the-badge&logo=firefish&color=7b81d1&logoColor=white)
-![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&color=1e2132&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-black.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim&logoColor=white&color=black)
+<!--![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&color=1e2132&logoColor=white&style=for-the-badge)-->
+<!--![vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim&logoColor=white&color=black)-->
 
 </div>
 <div style="display: flex; justify-content: space-between; flex-direction: column; text-wrap: no-wrap;margin-left: auto; margin-right: auto;" align='center'>
