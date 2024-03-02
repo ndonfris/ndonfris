@@ -12,15 +12,14 @@
 I enjoy building developer tools and web applications to create solutions across a variety of domains. 
 I am passionate about open source software and the communities that support it.
 I am always looking for new opportunities to collaborate and learn from others.
-<a href="mailto:donfris.nick@gmail.com">Feel free to reach out.</a>
+<a href="mailto:donfris.nick@gmail.com" align="center" style="margin-left: auto; margin-right: auto;">Feel free to reach out.</a>
 
 </div>
-<!-- <hr /> -->
 <p align="center" style="padding-top: 2em">
     <img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak"/>  
 </p>
-<!-- <hr /> -->
-<h4 align="center">Current Favorite Tools🛠️</h4>
+
+<h3 align="center"><ins>Current Favorite Tools🛠️</ins></h3>
 <div style="display: flex; justify-content: space-between; flex-direction: column; text-wrap: no-wrap;" align="center">
 
 ![pop!_shell](https://img.shields.io/badge/pop!__shell-48B9C7?style=for-the-badge&logo=Linux&logoColor=white)
@@ -29,16 +28,10 @@ I am always looking for new opportunities to collaborate and learn from others.
 <!--![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&color=1e2132&logoColor=white&style=for-the-badge)-->
 <!--![vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim&logoColor=white&color=black)-->
 
-</div>
-<div style="display: flex; justify-content: space-between; flex-direction: column; text-wrap: no-wrap;margin-left: auto; margin-right: auto;" align='center'>
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-</div>
-<div style="display: flex; justify-content: space-around; flex-direction: column;margin-left: 2rem; margin-right: 2rem;" align='center'>
 
 ![Alpine.js Badge](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,6 +41,7 @@ I am always looking for new opportunities to collaborate and learn from others.
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MDX Badge](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff&style=for-the-badge)
+
 </div>
 
 <!-- > This list does NOT include all tools I have used or am familiar with -->
