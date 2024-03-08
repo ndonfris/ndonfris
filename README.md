@@ -2,7 +2,7 @@
 <div style="text-align: left; max-width: 60%; line-height: 1.5em;font-size: 9pt; margin-left: auto; margin-right: auto;">
 
 - 😎 Full Stack Developer
-- ⌨️  Split Keyboard Enthusiast 
+- ⌨️ Split Keyboard Enthusiast ([ergodox layout](https://github.com/ndonfris/ergodox_settings.git)]
 - 🎓 University of Arizona Computer Science Graduate
 - 🐟 Author of the [fish-lsp](https://github.com/ndonfris/fish-lsp)
 - 🪂 I also publish code on [supplycode.dev](https://www.supplycode.dev)
