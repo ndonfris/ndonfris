@@ -16,7 +16,8 @@ I am always looking for new opportunities to collaborate and learn from others.
 
 </div>
 <p align="center" style="padding-top: 2em">
-    <img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak"/>  
+  <img src="https://github-readme-streak-stats-tau-orpin.vercel.app?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=ndonfris&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak"/> -->
 </p>
 
 <h3 align="center"><ins>Current Favorite Tools🛠️</ins></h3>
